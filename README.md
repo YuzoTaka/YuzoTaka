@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**YuzoTaka/YuzoTaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**YuzoTaka/YuzoTaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+--!>
+
+<a href="https://github.com/YuzoTaka">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuzoTaka&layout=compact&theme=radical" />
+</a>
 
