@@ -13,13 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<a href="https://github.com/YuzoTaka">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YuzoTaka&layout=compact&theme=radical" />
-</a>
 --!>
-
 
 <h1 align="center">Hi 👋, I'm Yuzo Takahashi</h1>
 <h3 align="center">Student for SPTech on Analysis, Development and Integration of Systems.</h3>
@@ -28,9 +22,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently a college student [SPTech](https://www.sptech.school)
 
-- 📚 Studying **HTML, CSS, JS and MYSQL**
+##
 
-- 📫 How to reach me **henriqueyuzo866@gmail.com**
+- 📚 Studying:
+ <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+</div>
+
+## 
 
 <h3 align="left">Connect with me:</h3>
 <div>
