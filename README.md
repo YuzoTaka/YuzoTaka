@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a><br>
 </p>
 
-📚 Studying:
+<h3 align="left">📚 Studying:</h3>
  <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" target="_blank" width="40" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" target="_blank" width="40" height="40">
@@ -32,12 +32,17 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
 </div>
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 <div>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank" width="40" height="40">
 </div>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzotaka&show_icons=true&locale=en&layout=compact" alt="yuzotaka" /></p>
+<div>
+  <a href="https://github.com/YuzoTaka">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YuzoTaka&show_icons=true&theme=dracula&title_color=0AFEFF&include_all_commits=true&count_private=true"/>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzoTaka&layout=compact&langs_count=7&theme=dracula&title_color=0AFEFF"/>
+</div>
 
 
 
