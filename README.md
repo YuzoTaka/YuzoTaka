@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --!>
 
 <h1 align="center">Hi, I'm Yuzo Takahashi</h1>
-<h3 align="center">Student for SPTech on Analysis, Development and Integration of Systems.</h3>
+<h3 align="center">Student for SPTech on Analysis, Development of Systems.</h3>
 
 <p>
 - 🔭 I’m currently a college student at <a href="https://www.sptech.school">SPTech</a><br>
