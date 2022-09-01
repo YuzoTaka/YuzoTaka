@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 --!>
 
 <h1 align="center">Hi, I'm Yuzo Takahashi</h1>
-<h3 align="center">Student for SPTech on Analysis, Development of Systems.</h3>
+<h3 align="center">Student for SPTech on Systems analysis and development.</h3>
 <img src="https://cdn.discordapp.com/attachments/1001707384831483905/1012923023675904000/study.gif" height="150" align="right">
 
 <p>
